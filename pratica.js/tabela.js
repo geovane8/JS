@@ -11,4 +11,5 @@ casa.criarTabela = function(moedas) {
         tabela.push(linha);
 
     }
+    connsole.tabela(casa.crarRabela(moedas));
 }
